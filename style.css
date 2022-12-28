@@ -33,3 +33,6 @@ img:hover{
     height: 10px;
     margin: 9px auto;
 }
+#slideshow{
+background-color: cyan;
+}
